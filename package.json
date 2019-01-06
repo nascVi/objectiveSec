@@ -21,6 +21,7 @@
   "homepage": "https://github.com/nascvi/objectifSecs#readme",
   "description": "",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "nedb": "^1.8.0",
     "nodemon": "^1.18.9"
